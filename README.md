@@ -1,1 +1,1 @@
-This is the repositories of BDEC!
+This is the repository of BDEC!
