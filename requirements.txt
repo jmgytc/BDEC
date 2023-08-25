@@ -1,0 +1,5 @@
+torch==1.10.1+cu113
+numpy==1.18.5
+tqdm==4.66.1
+nibabel==5.1.0
+timm==0.5.4
